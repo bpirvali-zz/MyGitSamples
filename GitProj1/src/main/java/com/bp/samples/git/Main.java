@@ -7,7 +7,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		System.out.println("GitProj1");
-		System.out.println("Edited From Clone:1, From Org:2, From Clone:2, From Org:3");
+		System.out.println("Edited From Clone:1, From Org:2, From Clone:2, From Org:3, From Clone:3");
 	}
 
 }
